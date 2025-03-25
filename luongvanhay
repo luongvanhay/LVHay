@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CV - Lương Văn Hay</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Lương Văn Hay</h1>
+        <p>Sinh viên Công nghệ Thông tin</p>
+    </header>
+    
+    <section class="info">
+        <h2>Thông Tin Liên Hệ</h2>
+        <p>Email: <a href="mailto:luongvanhay20@gmail.com">luongvanhay20@gmail.com</a></p>
+        <p>Số điện thoại: <a href="tel:+84836677490">0836677490</a></p>
+    </section>
+    
+    <section class="education">
+        <h2>Học Vấn</h2>
+        <p><strong>Bằng cấp:</strong> Kỹ sư Công nghệ Thông tin</p>
+        <p><strong>Trường:</strong> Đại học Sài Gòn</p>
+        <p><strong>Thời gian học:</strong> 2024 - 2028</p>
+    </section>
+    
+    <section class="skills">
+        <h2>Kỹ Năng Chuyên Môn</h2>
+        <ul>
+            <li>Lập trình: C++, Java, C</li>
+            <li>Phát triển phần mềm: OOP, cấu trúc dữ liệu & giải thuật</li>
+            <li>Công cụ: Git, Visual Studio Code, IntelliJ IDEA</li>
+        </ul>
+    </section>
+    
+    <section class="languages">
+        <h2>Ngôn Ngữ</h2>
+        <p>Tiếng Việt (Bản ngữ)</p>
+        <p>Tiếng Anh (Chuyên nghiệp)</p>
+    </section>
+    
+    <section class="projects">
+        <h2>Dự Án Cá Nhân</h2>
+        <p>(Thêm các dự án nếu có, ví dụ: Ứng dụng quản lý thư viện bằng Java...)</p>
+    </section>
+    
+    <section class="hobbies">
+        <h2>Sở Thích</h2>
+        <p>Chơi game, xem phim, chơi thể thao</p>
+    </section>
+    
+    <footer>
+        <p>&copy; 2024 Lương Văn Hay. All rights reserved.</p>
+    </footer>
+</body>
+</html>
